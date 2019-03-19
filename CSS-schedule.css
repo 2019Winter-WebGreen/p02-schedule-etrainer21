@@ -1,0 +1,25 @@
+/*
+* Emily Trainer
+* March 21,2019
+* Emily Trainer's 2nd Semester Schedule
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+
+table, td, th {border: 1px solid black;}
+
+table {border-collapse: collapse;}
+
+thead {background-color: lightcoral;}
+tbody {background-color: beige;}
+tfoot {background-color: lightblue;}
